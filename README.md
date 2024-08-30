@@ -34,10 +34,6 @@ This project was developed to achieve the following learning outcomes:
 - Utilize RESTful APIs and integrate them with a MongoDB backend.
 - Manage state and data flow in a React application.
 
-## Installation
-
-To run the StayScape app locally, follow these steps:
-
 ### Prerequisites
 
 - Node.js and npm installed
